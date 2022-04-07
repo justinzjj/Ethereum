@@ -1,0 +1,12 @@
+{
+    "config": {
+        "childID": 15,
+        "homesteadBlock": 0
+    },
+    "difficulty": "20",
+    "gasLimit": "2100000",
+    "alloc":{
+        "0x7df9a875a174b3bc565e6424a0050ebc1b2d1d82":{"balance":"300000"},
+        "0xf41c74c9ae680c1aa78f42e5647a62f353b7bdde":{"balance":"400000"}
+    }
+}

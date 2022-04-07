@@ -1,0 +1,5 @@
+geth console  2>>geth.log
+geth console  2>>geth.log;
+SyntaxError: SyntaxError: (anonymous): Line 1:6 Unexpected identifier
+esc
+geth console 2>>geth.log
